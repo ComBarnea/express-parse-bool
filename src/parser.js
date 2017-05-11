@@ -18,6 +18,8 @@ function parse(objectToParse) {
             }
         }
     }
+
+    return objectToParse;
 }
 
 
