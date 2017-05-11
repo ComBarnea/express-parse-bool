@@ -1,6 +1,6 @@
 {
   "name": "express-parse-bool",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "parse express boolean type",
   "main": "dist/index.js",
   "files": [
